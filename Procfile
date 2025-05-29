@@ -1,0 +1,1 @@
+web: python flask_label_auto_print.py
